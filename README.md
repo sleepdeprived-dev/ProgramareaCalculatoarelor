@@ -10,6 +10,7 @@ Problemele sunt organizate pe seminare, fiecare conținând problemele de la sem
 - 📁 `seminar-01/`
 - 📁 `seminar-02/`
 - 📁 `seminar-03/`
+
 ...
 
 ## 🎯 Scop
