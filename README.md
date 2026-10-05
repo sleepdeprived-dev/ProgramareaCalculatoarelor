@@ -5,12 +5,12 @@
 
 ## 📂 Structură
 
-Problemele sunt organizate pe seminare:
+Problemele sunt organizate pe seminare, fiecare conținând problemele de la seminarul respectiv:
 
-- 📁 `seminar-01/` – exerciții și probleme de la seminarul 1
-- 📁 `seminar-02/` – exerciții și probleme de la seminarul 2
-- 📁 `seminar-03/` – exerciții și probleme de la seminarul 3
-- ...
+- 📁 `seminar-01/`
+- 📁 `seminar-02/`
+- 📁 `seminar-03/`
+...
 
 ## 🎯 Scop
 
